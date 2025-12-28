@@ -23,6 +23,7 @@ Something that had not been found in the PP database was information on the team
 - "Track" has been renamed as "village"
 - "Project Title" has been renamed as "title"
 - "Team name" has been renamed as "team"
+- "Location" has been renamed as "country"
 
 ### Politics
 Something that has been realised rather late is that the PP from iGEM lists countries as "locations", potentially to get around hot political conflicts and appear as "neutral". As this information on the team pages is listed under countries, the column also carries the name "country" in the PPR.
