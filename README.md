@@ -2,7 +2,7 @@
 
 
 # iGEM Phoenix-Project - Rekindled
-Overhaul/Revamp of the iGEM phoenix project (https://community.igem.org/projects/phoenix-project)
+Overhaul/Revamp of the [iGEM Phoenix Project](https://community.igem.org/projects/phoenix-project)
 
 The Phoenix Project was imagined as a database to help researchers and iGEM teams to get an overview what kind of project have been tackled in the past. Teams are listed on on the [teams page of the competition](https://teams.igem.org/). This page was not build for the purpose of having an easily structured search for basic information of the teams. Therefore, the Phoenix Project fills an, in my opinion, important gap to help teams search for project that have worked on similar projects in the previous years and maybe tackled similar problems the teams are facing.
 
